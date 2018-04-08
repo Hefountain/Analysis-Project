@@ -104,5 +104,5 @@ for i in result:
 wc.generate_from_frequencies(keywords)
 show_img(wc)
 ```
-![image]["https://github.com/Hefountain/Analysis-Project/raw/master/ciyun.jpg"]
+![image](https://github.com/Hefountain/Analysis-Project/raw/master/ciyun.jpg)
 生活、爱情、青春、中国等几个关键词是文学创作离不开的主旋律，比如关于“生活”的就有《平凡的世界》，《老人与海》，关于“爱情”的《飘》，《霍乱时期的爱情》，《茶花女》等，关于“青春”的《致我们终将逝去的青春》，《挪威的森林》以及《麦田里的守望者》等都是我们比较熟悉的作品。
