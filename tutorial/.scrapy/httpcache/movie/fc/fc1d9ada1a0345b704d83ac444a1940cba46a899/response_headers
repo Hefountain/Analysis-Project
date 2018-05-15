@@ -1,0 +1,20 @@
+Content-Type: text/plain
+X-Xss-Protection: 1; mode=block
+X-Dae-App: accounts
+X-Content-Type-Options: nosniff
+X-Douban-Mobileapp: 0
+Set-Cookie: ue="zweite@163.com"; domain=.douban.com; expires=Tue, 14-May-2019 14:30:11 GMT; httponly
+Set-Cookie: dbcl2="81183949:K15OypmTwnc"; path=/; domain=.douban.com; httponly
+Set-Cookie: as="deleted"; max-age=0; domain=.douban.com; expires=Thu, 01-Jan-1970 00:00:00 GMT
+Set-Cookie: bid=wdKltmWyNZ0; Expires=Tue, 14-May-19 14:30:11 GMT; Domain=.douban.com; Path=/
+Expires: Sun, 1 Jan 2006 01:00:00 GMT
+X-Dae-Node: sindar26d
+X-Douban-Newbid: wdKltmWyNZ0
+Location: https://movie.douban.com/subject/4920389/comments
+Pragma: no-cache
+Cache-Control: must-revalidate, no-cache, private
+Date: Mon, 14 May 2018 14:30:11 GMT
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+Server: dae
+Strict-Transport-Security: max-age=15552000;
+X-Frame-Options: SAMEORIGIN

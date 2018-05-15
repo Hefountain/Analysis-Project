@@ -1,0 +1,13 @@
+X-Xss-Protection: 1; mode=block
+X-Dae-App: movie
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+X-Douban-Mobileapp: 0
+X-Dae-Node: sindar13c
+Expires: Sun, 1 Jan 2006 01:00:00 GMT
+Vary: Accept-Encoding
+Server: dae
+Pragma: no-cache
+Cache-Control: must-revalidate, no-cache, private
+Date: Tue, 15 May 2018 04:24:47 GMT
+Content-Type: text/html; charset=utf-8
